@@ -1,2 +1,3 @@
-# gott
+# gott (GOD)
+
 AI model for your financial needs...
