@@ -10,6 +10,8 @@ custom-trained on proprietary financial datasets. This approach ensures data pri
 financial insights without cloud dependencies. The system leverages machine learning algorithms to provide intelligent
 financial analysis and recommendations based on locally processed CSV data.
 
+NOTE: You can use your own model also instead of "Microsoft's Phi-3-mini-4k" and place it under "{ROOT}/models/your_model.gguf" and make the necessary changes to docker-compose.yml and .env files.
+
 ## Features
 
 - Financial analysis and forecasting
