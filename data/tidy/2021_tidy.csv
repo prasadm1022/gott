@@ -1,0 +1,253 @@
+Year,Month,Type,Source,Amount
+2021,1,Expense,Bank Expenses,250.0
+2021,1,Expense,Car,0.0
+2021,1,Expense,Donations,1000.0
+2021,1,Expense,Education ,0.0
+2021,1,Expense,Family/Home,8225.0
+2021,1,Expense,Fashion,650.0
+2021,1,Expense,Finance,0.0
+2021,1,Expense,Foods,10540.0
+2021,1,Expense,Health,100.0
+2021,1,Expense,Office,275.0
+2021,1,Expense,Others,1220.0
+2021,1,Expense,Party/Gifts,0.0
+2021,1,Expense,Phone/Subscriptions,90563.97
+2021,1,Expense,Property ,0.0
+2021,1,Expense,Reloads/Router,5200.0
+2021,1,Expense,Sports,3300.0
+2021,1,Expense,Transports,1267.0
+2021,1,Expense,Trips,2600.0
+2021,1,Income,Bank Interests,9349.33
+2021,1,Income,Business,7000.0
+2021,1,Income,Salary,255000.0
+2021,2,Expense,Bank Expenses,700.0
+2021,2,Expense,Car,0.0
+2021,2,Expense,Donations,0.0
+2021,2,Expense,Education ,9812.64
+2021,2,Expense,Family/Home,28105.0
+2021,2,Expense,Fashion,6870.0
+2021,2,Expense,Finance,0.0
+2021,2,Expense,Foods,7402.0
+2021,2,Expense,Health,960.0
+2021,2,Expense,Office,275.0
+2021,2,Expense,Others,370.0
+2021,2,Expense,Party/Gifts,5010.0
+2021,2,Expense,Phone/Subscriptions,586.43
+2021,2,Expense,Property ,0.0
+2021,2,Expense,Reloads/Router,3305.0
+2021,2,Expense,Sports,1300.0
+2021,2,Expense,Transports,4100.0
+2021,2,Expense,Trips,8195.0
+2021,2,Income,Bank Interests,9418.16
+2021,2,Income,Business,7000.0
+2021,2,Income,Salary,120000.0
+2021,3,Expense,Bank Expenses,1600.0
+2021,3,Expense,Car,0.0
+2021,3,Expense,Donations,2000.0
+2021,3,Expense,Education ,2750.0
+2021,3,Expense,Family/Home,3915.0
+2021,3,Expense,Fashion,12860.0
+2021,3,Expense,Finance,0.0
+2021,3,Expense,Foods,12231.5
+2021,3,Expense,Health,1325.0
+2021,3,Expense,Office,275.0
+2021,3,Expense,Others,245.0
+2021,3,Expense,Party/Gifts,24280.0
+2021,3,Expense,Phone/Subscriptions,800.34
+2021,3,Expense,Property ,0.0
+2021,3,Expense,Reloads/Router,3000.0
+2021,3,Expense,Sports,5500.0
+2021,3,Expense,Transports,18577.0
+2021,3,Expense,Trips,60.0
+2021,3,Income,Bank Interests,9428.37
+2021,3,Income,Business,6400.0
+2021,3,Income,Salary,120000.0
+2021,4,Expense,Bank Expenses,24379.45
+2021,4,Expense,Car,3017570.0
+2021,4,Expense,Donations,6540.0
+2021,4,Expense,Education ,0.0
+2021,4,Expense,Family/Home,30083.0
+2021,4,Expense,Fashion,0.0
+2021,4,Expense,Finance,94380.0
+2021,4,Expense,Foods,7203.0
+2021,4,Expense,Health,0.0
+2021,4,Expense,Office,275.0
+2021,4,Expense,Others,370.0
+2021,4,Expense,Party/Gifts,5350.0
+2021,4,Expense,Phone/Subscriptions,6461.08
+2021,4,Expense,Property ,0.0
+2021,4,Expense,Reloads/Router,4000.0
+2021,4,Expense,Sports,1570.0
+2021,4,Expense,Transports,12091.0
+2021,4,Expense,Trips,3000.0
+2021,4,Income,Bank Interests,9456.76
+2021,4,Income,Business,3252500.0
+2021,4,Income,Salary,120000.0
+2021,5,Expense,Bank Expenses,50344.45
+2021,5,Expense,Car,24338.34
+2021,5,Expense,Donations,6216.0
+2021,5,Expense,Education ,0.0
+2021,5,Expense,Family/Home,17567.28
+2021,5,Expense,Fashion,170.0
+2021,5,Expense,Finance,4745.67
+2021,5,Expense,Foods,6741.0
+2021,5,Expense,Health,90.0
+2021,5,Expense,Office,275.0
+2021,5,Expense,Others,385.0
+2021,5,Expense,Party/Gifts,5450.0
+2021,5,Expense,Phone/Subscriptions,807.26
+2021,5,Expense,Property ,80000.0
+2021,5,Expense,Reloads/Router,0.0
+2021,5,Expense,Sports,500.0
+2021,5,Expense,Transports,19740.0
+2021,5,Expense,Trips,0.0
+2021,5,Income,Bank Interests,4014.0
+2021,5,Income,Business,2000.0
+2021,5,Income,Salary,120000.0
+2021,6,Expense,Bank Expenses,50744.45
+2021,6,Expense,Car,26178.34
+2021,6,Expense,Donations,1000.0
+2021,6,Expense,Education ,0.0
+2021,6,Expense,Family/Home,8390.0
+2021,6,Expense,Fashion,8080.0
+2021,6,Expense,Finance,4675.67
+2021,6,Expense,Foods,11275.0
+2021,6,Expense,Health,0.0
+2021,6,Expense,Office,275.0
+2021,6,Expense,Others,360.0
+2021,6,Expense,Party/Gifts,500.0
+2021,6,Expense,Phone/Subscriptions,810.25
+2021,6,Expense,Property ,0.0
+2021,6,Expense,Reloads/Router,5500.0
+2021,6,Expense,Sports,0.0
+2021,6,Expense,Transports,13550.0
+2021,6,Expense,Trips,0.0
+2021,6,Income,Bank Interests,0.0
+2021,6,Income,Business,11925.2
+2021,6,Income,Salary,120000.0
+2021,7,Expense,Bank Expenses,50358.45
+2021,7,Expense,Car,71848.34
+2021,7,Expense,Donations,1115.0
+2021,7,Expense,Education ,0.0
+2021,7,Expense,Family/Home,5515.0
+2021,7,Expense,Fashion,0.0
+2021,7,Expense,Finance,4675.67
+2021,7,Expense,Foods,15656.79
+2021,7,Expense,Health,0.0
+2021,7,Expense,Office,275.0
+2021,7,Expense,Others,280.0
+2021,7,Expense,Party/Gifts,500.0
+2021,7,Expense,Phone/Subscriptions,911.59
+2021,7,Expense,Property ,0.0
+2021,7,Expense,Reloads/Router,2600.0
+2021,7,Expense,Sports,0.0
+2021,7,Expense,Transports,18990.0
+2021,7,Expense,Trips,0.0
+2021,7,Income,Bank Interests,218.5
+2021,7,Income,Business,22600.0
+2021,7,Income,Salary,130000.0
+2021,8,Expense,Bank Expenses,50344.45
+2021,8,Expense,Car,31908.34
+2021,8,Expense,Donations,150.0
+2021,8,Expense,Education ,0.0
+2021,8,Expense,Family/Home,4920.0
+2021,8,Expense,Fashion,520.0
+2021,8,Expense,Finance,4675.67
+2021,8,Expense,Foods,6040.0
+2021,8,Expense,Health,2580.0
+2021,8,Expense,Office,16400.0
+2021,8,Expense,Others,350.0
+2021,8,Expense,Party/Gifts,0.0
+2021,8,Expense,Phone/Subscriptions,814.17
+2021,8,Expense,Property ,0.0
+2021,8,Expense,Reloads/Router,2800.0
+2021,8,Expense,Sports,400.0
+2021,8,Expense,Transports,7850.0
+2021,8,Expense,Trips,0.0
+2021,8,Income,Bank Interests,0.0
+2021,8,Income,Business,9760.0
+2021,8,Income,Salary,130000.0
+2021,9,Expense,Bank Expenses,50344.45
+2021,9,Expense,Car,17708.34
+2021,9,Expense,Donations,0.0
+2021,9,Expense,Education ,0.0
+2021,9,Expense,Family/Home,6010.0
+2021,9,Expense,Fashion,4730.0
+2021,9,Expense,Finance,4675.67
+2021,9,Expense,Foods,1360.0
+2021,9,Expense,Health,0.0
+2021,9,Expense,Office,0.0
+2021,9,Expense,Others,240.0
+2021,9,Expense,Party/Gifts,0.0
+2021,9,Expense,Phone/Subscriptions,893.32
+2021,9,Expense,Property ,0.0
+2021,9,Expense,Reloads/Router,5100.0
+2021,9,Expense,Sports,0.0
+2021,9,Expense,Transports,1100.0
+2021,9,Expense,Trips,0.0
+2021,9,Income,Bank Interests,21.42
+2021,9,Income,Business,6000.0
+2021,9,Income,Salary,130000.0
+2021,10,Expense,Bank Expenses,50369.45
+2021,10,Expense,Car,264228.34
+2021,10,Expense,Donations,1331.0
+2021,10,Expense,Education ,0.0
+2021,10,Expense,Family/Home,5414.0
+2021,10,Expense,Fashion,8500.0
+2021,10,Expense,Finance,4675.67
+2021,10,Expense,Foods,10390.0
+2021,10,Expense,Health,490.0
+2021,10,Expense,Office,70.0
+2021,10,Expense,Others,1160.0
+2021,10,Expense,Party/Gifts,7485.0
+2021,10,Expense,Phone/Subscriptions,844.07
+2021,10,Expense,Property ,0.0
+2021,10,Expense,Reloads/Router,5900.0
+2021,10,Expense,Sports,0.0
+2021,10,Expense,Transports,20265.0
+2021,10,Expense,Trips,0.0
+2021,10,Income,Bank Interests,579.5
+2021,10,Income,Business,369850.0
+2021,10,Income,Salary,130000.0
+2021,11,Expense,Bank Expenses,55596.45
+2021,11,Expense,Car,26595.3
+2021,11,Expense,Donations,1025.0
+2021,11,Expense,Education ,0.0
+2021,11,Expense,Family/Home,14415.0
+2021,11,Expense,Fashion,200.0
+2021,11,Expense,Finance,4675.67
+2021,11,Expense,Foods,3635.0
+2021,11,Expense,Health,0.0
+2021,11,Expense,Office,2500.0
+2021,11,Expense,Others,364.0
+2021,11,Expense,Party/Gifts,1830.0
+2021,11,Expense,Phone/Subscriptions,828.06
+2021,11,Expense,Property ,0.0
+2021,11,Expense,Reloads/Router,5600.0
+2021,11,Expense,Sports,900.0
+2021,11,Expense,Transports,9350.0
+2021,11,Expense,Trips,2750.0
+2021,11,Income,Bank Interests,45.75
+2021,11,Income,Business,10570.0
+2021,11,Income,Salary,130000.0
+2021,12,Expense,Bank Expenses,54369.45
+2021,12,Expense,Car,57828.34
+2021,12,Expense,Donations,4342.0
+2021,12,Expense,Education ,0.0
+2021,12,Expense,Family/Home,10045.0
+2021,12,Expense,Fashion,3050.0
+2021,12,Expense,Finance,4675.67
+2021,12,Expense,Foods,8485.0
+2021,12,Expense,Health,1290.0
+2021,12,Expense,Office,2500.0
+2021,12,Expense,Others,661.0
+2021,12,Expense,Party/Gifts,15000.0
+2021,12,Expense,Phone/Subscriptions,838.56
+2021,12,Expense,Property ,0.0
+2021,12,Expense,Reloads/Router,6350.0
+2021,12,Expense,Sports,385.0
+2021,12,Expense,Transports,17630.0
+2021,12,Expense,Trips,19620.0
+2021,12,Income,Bank Interests,33.07
+2021,12,Income,Business,63675.0
+2021,12,Income,Salary,130000.0
