@@ -1,0 +1,23 @@
+version: "3.9"
+
+services:
+  phi3:
+    image: ghcr.io/ggml-org/llama.cpp:server-cuda
+    container_name: ${DOCKER_CONTAINER_NAME}
+    restart: unless-stopped
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./models:/models:ro
+    command: >
+      --host 0.0.0.0
+      -m /models/${MODEL_FILENAME}
+      -c ${CONTEXT}
+      -ngl ${NGL}
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [ gpu ]
